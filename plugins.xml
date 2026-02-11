@@ -8,8 +8,9 @@
         <homepage>https://github.com/e148060397/cadgis-updates</homepage>
         <file_name>cadgis_search.zip</file_name>
         <author_name>Votre Nom</author_name>
-        <download_url>https://github.com/e148060397/cadgis_search.zip</download_url>
+        <download_url>https://github.com/e148060397/cadgis_search</download_url>
     </pyqgis_plugin>
 </plugins>
+
 
 
