@@ -1,11 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
 <plugins>
     <pyqgis_plugin name="CadGis Pro" version="1.0" plugin_id="0001">
-        <description>Outil professionnel de recherche.</description>
-        <about>Version Pro pour usage interne.</about>
-        <version>1.0</version> <qgis_minimum_version>3.0</qgis_minimum_version>
-        <homepage>www.instagram.com/aymaneddaiff</homepage>
-        <file_name>cadgis_search.zip</file_name>
-        <author_name>a.eddaif</author_name>
-        <download_url>https://github.com/e148060397/cadgis_search_plugin.git</download_url>
+        <description>Plugin pour la recherche cadastrale</description>
+        <about>Version interne</about>
+        <version>1.0</version>
+        <qgis_minimum_version>3.0</qgis_minimum_version>
+        <homepage>https://github.com/e148060397/cadgis-updates</homepage>
+        <file_name>cadgis_search_plugin.zip</file_name>
+        <author_name>Votre Nom</author_name>
+        <download_url>https://raw.githubusercontent.com/e148060397/cadgis-updates/main/cadgis_search_plugin.zip</download_url>
     </pyqgis_plugin>
 </plugins>
